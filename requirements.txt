@@ -1,6 +1,6 @@
 streamlit
 pandas
-geopandas
 shapely
-fiona
 pyproj
+fiona
+geopandas
