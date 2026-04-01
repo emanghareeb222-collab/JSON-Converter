@@ -1,4 +1,6 @@
 streamlit
 pandas
-requests
-colorama
+geopandas
+shapely
+fiona
+pyproj
